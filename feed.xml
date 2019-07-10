@@ -4,10 +4,10 @@
     <title>Marquee Renovations</title>
     <description>General Contracting and home inspections done right
 </description>
-    <link>http://locahost:4001/</link>
-    <atom:link href="http://locahost:4001/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 10 Jul 2019 16:24:02 -0600</pubDate>
-    <lastBuildDate>Wed, 10 Jul 2019 16:24:02 -0600</lastBuildDate>
+    <link>http://locahost:4001marquee-renos-site/</link>
+    <atom:link href="http://locahost:4001marquee-renos-site/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 10 Jul 2019 16:38:14 -0600</pubDate>
+    <lastBuildDate>Wed, 10 Jul 2019 16:38:14 -0600</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -22,8 +22,8 @@ Duis in purus sit amet elit ullamcorper venenatis vel a diam. Pellentesque habit
 &lt;p&gt;Duis eget magna at arcu tincidunt ultricies. Curabitur in facilisis sem, nec bibendum eros. Nunc fringilla imperdiet diam sed viverra. Vivamus lobortis dignissim mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet eu diam eu pellentesque. Duis tempus metus urna, vel faucibus ligula pharetra euismod. Donec rhoncus blandit posuere. Mauris mattis dolor est, dictum venenatis augue facilisis sit amet. Ut ante odio, congue eget arcu nec, semper eleifend urna. Donec rutrum pretium odio non pellentesque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam pellentesque nulla at tincidunt ultrices. Donec finibus malesuada magna. Phasellus eget tortor in lectus vehicula viverra sit amet sit amet purus.&lt;/p&gt;
 </description>
         <pubDate>Sun, 07 Sep 2014 08:36:23 -0600</pubDate>
-        <link>http://locahost:4001/inspection/2014/09/07/duis-in-purus.html</link>
-        <guid isPermaLink="true">http://locahost:4001/inspection/2014/09/07/duis-in-purus.html</guid>
+        <link>http://locahost:4001marquee-renos-site/inspection/2014/09/07/duis-in-purus.html</link>
+        <guid isPermaLink="true">http://locahost:4001marquee-renos-site/inspection/2014/09/07/duis-in-purus.html</guid>
         
         
         <category>Inspection</category>
@@ -38,8 +38,8 @@ Morbi a semper justo, non eleifend elit. Sed nulla nulla, porttitor nec volutpat
 &lt;p&gt;Duis eget magna at arcu tincidunt ultricies. Curabitur in facilisis sem, nec bibendum eros. Nunc fringilla imperdiet diam sed viverra. Vivamus lobortis dignissim mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet eu diam eu pellentesque. Duis tempus metus urna, vel faucibus ligula pharetra euismod. Donec rhoncus blandit posuere. Mauris mattis dolor est, dictum venenatis augue facilisis sit amet. Ut ante odio, congue eget arcu nec, semper eleifend urna. Donec rutrum pretium odio non pellentesque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam pellentesque nulla at tincidunt ultrices. Donec finibus malesuada magna. Phasellus eget tortor in lectus vehicula viverra sit amet sit amet purus.&lt;/p&gt;
 </description>
         <pubDate>Sun, 31 Aug 2014 08:36:23 -0600</pubDate>
-        <link>http://locahost:4001/2014/08/31/morbi-a-semper.html</link>
-        <guid isPermaLink="true">http://locahost:4001/2014/08/31/morbi-a-semper.html</guid>
+        <link>http://locahost:4001marquee-renos-site/2014/08/31/morbi-a-semper.html</link>
+        <guid isPermaLink="true">http://locahost:4001marquee-renos-site/2014/08/31/morbi-a-semper.html</guid>
         
         
       </item>
@@ -55,8 +55,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at metus au
 
 </description>
         <pubDate>Sun, 31 Aug 2014 08:36:23 -0600</pubDate>
-        <link>http://locahost:4001/first-post.html</link>
-        <guid isPermaLink="true">http://locahost:4001/first-post.html</guid>
+        <link>http://locahost:4001marquee-renos-site/first-post.html</link>
+        <guid isPermaLink="true">http://locahost:4001marquee-renos-site/first-post.html</guid>
         
         
       </item>
